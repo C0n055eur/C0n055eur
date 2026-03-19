@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @C0n055eur
-- 👀 I’m interested in everything about game development, Agentic AI, Physical AI
 - 💞️ I’m looking to collaborate on game development and AI projects
 - 📫 Prasannanarayana5@gmail.com
 
